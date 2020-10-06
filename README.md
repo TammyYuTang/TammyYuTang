@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**TammyYuTang/TammyYuTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🧙🏾‍♂‍ Data Scientist / AI Machine Learning Engineer 🧠 Deep Learning | Analytics | Visualisation   
+SQL - 🧹Data - 🤯 Algorithms = Actionable Insights = Smart Decisions = Business Solutions = Revenue  Costs  
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
