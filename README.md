@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sagemaker, Tensorflow on AWS, Amazon Forecast
 - 👯 I’m looking to collaborate on data or insurance
 - 🤔 I’m looking for help with Deep Learning, Machine Learning
-- 💬 Ask me about R, Python, statistics, SQL, SAS
+- 💬 Ask me about R, Python, Statistics, SQL, SAS
 - 📫 How to reach me:	tammyyutang@gmail.com | www.linkedin.com/in/tammy-lin
 - ⚡ Fun fact: People always ask "what is an actuary" but has anyone ever stopped to think "HOW is an actuary?"
 
